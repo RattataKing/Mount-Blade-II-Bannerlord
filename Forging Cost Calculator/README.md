@@ -30,7 +30,7 @@ SUM(material_count * calibrated material_price)
 
 ### How to Use
 1. **In sheet 'Core':** Edit fundamental prices (optional).
-2. **In sheet 'formula':** Select parts by typing and searching keywords for blade, guard, handle, and pommel.
+2. **In sheet 'Formula':** Select parts by typing and searching keywords for blade, guard, handle, and pommel.
 3. Est. cost will auto-show up, you can also manually fill in the sword name and trade price.
 4. Copy the cells to manage and record more combinations.
 5. You can click `View > Hidden sheets` to see full information.
