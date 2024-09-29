@@ -1,6 +1,17 @@
 ## Game Version: v1.2.11.45697
 
 **Tool Link (Google Sheet):** [forging_cost_calculator](https://docs.google.com/spreadsheets/d/1g8_KZIT8FpruhnJnLDpKgjLW_icW5kl0nXgo94aG2HU/edit?usp=sharing)
+### Introduction
+This tool is a crafting/forging cost estimator for two-handed swords in *Mount & Blade II: Bannerlord*. Cost is calculated by:
+```
+SUM(material_count * calibrated material_price)
+```
+![image](https://github.com/user-attachments/assets/0fbb7c06-3ef2-41e5-a4db-c2c3f589d89f)
+![image](https://github.com/user-attachments/assets/61b7abe5-c761-416e-9bbf-aa955a46d118)
+![image](https://github.com/user-attachments/assets/895d9623-59f1-4f5f-b08f-400bf3bd0dcf)
+![image](https://github.com/user-attachments/assets/80c79bb3-770a-4904-a4d1-ba3b420506da)
+![image](https://github.com/user-attachments/assets/2a2d365c-1298-4fee-9b89-6a4e0f2faeec)
+
 
 ### Contents
 
